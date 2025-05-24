@@ -1,0 +1,3 @@
+[submodule "lead-management/lead_management"]
+	path = lead-management/lead_management
+	url = https://github.com/mani4769/lead_management.git
